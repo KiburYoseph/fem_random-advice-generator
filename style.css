@@ -33,10 +33,11 @@ h1 {
     line-height: 0px;
 }
 
-p {
+.advice {
     color: hsl(193, 38%, 86%);
     font-size: 1.8rem;
     text-align: center;
+    transition: 300ms;
 }
 
 button {
